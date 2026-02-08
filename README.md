@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1200&pause=400&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=90&lines=✨+Welcome+to+the+Mist+✨;Full+Stack+%2B+GenAI+Engineer+🚀" alt="Header" />
+<a href="https://github.com/mist-ic">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1500&pause=500&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%E2%9C%A8+Welcome+to+the+Mist+%E2%9C%A8;Full+Stack+%2B+GenAI+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -145,6 +147,16 @@ Analyzed 50K+ Dota 2 matches:
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=mist-ic&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" />
 
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mist-ic/mist-ic/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mist-ic/mist-ic/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mist-ic/mist-ic/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
