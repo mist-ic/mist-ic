@@ -8,12 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mist-ic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/mist_ic"><img src="https://img.shields.io/badge/@mist__ic-000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:praveen.24bcs10048@sst.scaler.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mist-ic&color=6366F1&style=flat-square&label=Profile+Views"/>
   <a href="https://github.com/mist-ic?tab=followers"><img src="https://img.shields.io/github/followers/mist-ic?label=Followers&style=flat-square&color=6366F1"/></a>
 </p>
