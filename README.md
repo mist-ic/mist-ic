@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%F0%9F%8C%8C+Welcome+to+the+Mist;Full+Stack+%2B+GenAI+Engineer" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1200&pause=400&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=90&lines=✨+Welcome+to+the+Mist+✨;Full+Stack+%2B+GenAI+Engineer+🚀" alt="Header" />
 
 <br/>
 
@@ -149,10 +149,10 @@ Analyzed 50K+ Dota 2 matches:
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mist-ic/mist-ic/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mist-ic&bg_color=0D1117&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
