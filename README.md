@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/mist-ic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hey%2C+I'm+Praveen+%F0%9F%91%8B;Full+Stack+%2B+GenAI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hey%2C+I'm+Praveen+%F0%9F%91%8B;AI+Systems+%C2%B7+Full+Stack" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,51 +14,65 @@
 
 ---
 
-### 🚀 About Me
+I build autonomous AI systems and production software. 6 years in Python, 4 years freelancing, comfortable across the full stack from infrastructure to interfaces. Most of my work involves taking messy real-world problems and turning them into reliable, self-improving pipelines — content intelligence, time-series analysis, real-time collaboration, health tech.
 
-- 🔭 Building **AI-powered products** that ship fast and scale
-- 🧠 **6 years** Python • **2 years** GenAI • **4 years** freelancing
-- ⚡ Built **TWAX** (AI news aggregator) from idea → production in **5 days**
-- 💬 Ask me about **LangChain, RAG pipelines, multi-agent systems**
-- 🎯 Philosophy: *"Ship fast, iterate faster. Build first, perfect later."*
+I ship fast and own the whole thing: architecture, backend, frontend, AI orchestration, deployment.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-<p align="center">
-  
-**AI & LLMs**
+<table>
+<tr>
+<td align="center" width="50%">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+**Languages & Frameworks**
 
-![OpenAI](https://img.shields.io/badge/GPT--5-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_3-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_4.5-191919?style=flat-square&logo=anthropic&logoColor=white)
+[![Core](https://skillicons.dev/icons?i=python,ts,rust,react,nextjs,fastapi&theme=dark)](https://skillicons.dev)
+[![More](https://skillicons.dev/icons?i=nodejs,flutter,flask,html,css,js&theme=dark)](https://skillicons.dev)
+
+</td>
+<td align="center" width="50%">
+
+**Infrastructure & Data**
+
+[![Infra](https://skillicons.dev/icons?i=postgres,redis,docker,aws,gcp,linux&theme=dark)](https://skillicons.dev)
+[![More](https://skillicons.dev/icons?i=elasticsearch,mongodb,firebase,git,github,vercel&theme=dark)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**AI & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Full Stack**
-
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastapi,docker,aws,postgres,redis&theme=dark)](https://skillicons.dev)
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mist-ic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&include_all_commits=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mist-ic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mist-ic&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=C9D1D9"/>
-</p>
-
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
@@ -70,44 +84,6 @@
 
 ---
 
-### 📈 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mist-ic&bg_color=0D1117&color=6366F1&line=6366F1&point=F59E0B&area=true&area_color=6366F1&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
 </p>
-
----
-
-<details>
-<summary><h3>🚀 Featured Projects</h3></summary>
-
-<p align="left">
-  <a href="https://github.com/mist-ic/TWAX"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mist-ic&repo=TWAX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B"/></a>
-  <a href="https://github.com/mist-ic/SyncMist"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mist-ic&repo=SyncMist&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B"/></a>
-  <a href="https://github.com/mist-ic/LatentMind"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mist-ic&repo=LatentMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B"/></a>
-  <a href="https://github.com/mist-ic/ReLeaf"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=mist-ic&repo=ReLeaf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F59E0B"/></a>
-</p>
-
-</details>
-
-<details>
-<summary><h3>🏆 GitHub Trophies</h3></summary>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mist-ic&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5"/>
-</p>
-
-</details>
-
----
-
-<p align="center">
-  <b>💼 Open for opportunities in Full Stack + GenAI Engineering</b>
-</p>
-
-<p align="center">
-  <sub>✨ <i>"Bias toward action over perfection"</i> ✨</sub>
-</p>
-
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
