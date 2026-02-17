@@ -14,9 +14,9 @@
 
 ---
 
-I build autonomous AI systems and production software. 6 years in Python, 4 years freelancing, comfortable across the full stack from infrastructure to interfaces. Most of my work involves taking messy real-world problems and turning them into reliable, self-improving pipelines — content intelligence, time-series analysis, real-time collaboration, health tech.
-
-I ship fast and own the whole thing: architecture, backend, frontend, AI orchestration, deployment.
+- Build autonomous AI systems and production software — content intelligence, time-series analysis, real-time collaboration, health tech
+- 6 years Python · 4 years freelancing · comfortable across the full stack from infrastructure to interfaces
+- Ship fast and own the whole thing: architecture, backend, frontend, AI orchestration, deployment
 
 ---
 
@@ -66,8 +66,7 @@ I ship fast and own the whole thing: architecture, backend, frontend, AI orchest
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mist-ic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&include_all_commits=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mist-ic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mist-ic&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=C9D1D9"/>
 </p>
 
 ---
