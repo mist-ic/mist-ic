@@ -14,7 +14,7 @@
 
 ---
 
-- Build autonomous AI systems and production software — content intelligence, time-series analysis, real-time collaboration, health tech
+- Build autonomous AI systems and production software · content intelligence, time-series analysis, real-time collaboration, health tech
 - 6 years Python · 4 years freelancing · comfortable across the full stack from infrastructure to interfaces
 - Ship fast and own the whole thing: architecture, backend, frontend, AI orchestration, deployment
 
