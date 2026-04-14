@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/mist-ic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hey%2C+I'm+Praveen+%F0%9F%91%8B;I+build+AI+systems+that+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=false&width=435&height=60&lines=Hey%2C+I'm+Praveen+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-6 years Python · 2+ years shipping AI/ML to production · comfortable owning the full stack from model selection to deployment. I build autonomous systems, production RAG pipelines, and distributed AI infrastructure — not notebooks.
+6 years Python · 2+ years shipping AI/ML to production · comfortable owning the full stack from model selection to deployment. I build autonomous systems, production RAG pipelines, and distributed AI infrastructure.
 
 ---
 
@@ -69,12 +69,12 @@ Cross-platform mobile app with Azure-hosted STT pipeline, Gemini transcription, 
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [LatentMind](https://github.com/mist-ic/LatentMind)
-**Behavioral Pattern Detection via Unsupervised ML**
+#### 🔥 [SevZero](https://github.com/mist-ic/SevZero)
+**RL Benchmark — Autonomous SRE Incident Response**
 
-Analyzed 50K+ matches with K-Means, DTW clustering, and Hidden Markov Models. Discovered 4 behavioral archetypes (77% vs 32% win rate separation) and that negative mental states are "sticky" (<5% recovery).
+RL environment where the agent is the on-call engineer. Diagnoses cascading cloud failures via alerts, logs, and distributed traces, then issues remediations before the cluster collapses. Procedurally generated topologies, queueing-theory cascade engine, 37 deterministic tests. Built for the OpenEnv AI Hackathon 2026.
 
-`PyTorch` `scikit-learn` `HMM` `DTW` `Pandas`
+`Python` `FastAPI` `OpenEnv` `Pydantic` `Docker`
 
 </td>
 <td width="50%" valign="top">
@@ -101,12 +101,12 @@ Cross-platform (Windows/Linux/Android) clipboard sync with Rust networking core,
 </td>
 <td width="50%" valign="top">
 
-#### 🌱 [ReLeaf](https://github.com/mist-ic/Leaf)
-**Gamified Sustainability Platform**
+#### 📊 [RevSight](https://github.com/mist-ic/RevSight)
+**Multi-Agent Revenue Intelligence Copilot**
 
-Full MERN stack app with JWT auth, login streaks, points system, rewards marketplace, and leaderboards. Deployed live on Netlify + Render.
+5-node LangGraph pipeline (Pydantic AI agents) that ingests CRM pipeline data, runs SQL-computed metrics, classifies risks, generates a QBR-ready narrative, and logs every decision to an audit trail. Numeric guardrail rejects and retries hallucinated numbers. Deployed on GCP Cloud Run with live SSE streaming.
 
-`React` `Express.js` `MongoDB` `TypeScript` `shadcn/ui`
+`LangGraph` `Pydantic AI` `FastAPI` `Next.js` `Neon` `GCP Cloud Run`
 
 </td>
 </tr>
