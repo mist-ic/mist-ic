@@ -15,7 +15,7 @@
 
 ---
 
-6 years Python · 2+ years shipping AI/ML to production · comfortable owning the full stack from model selection to deployment. I build autonomous systems, production RAG pipelines, and distributed AI infrastructure.
+6 years Python · 4+ years shipping production systems · YC student · founding engineer who builds entire products from scratch. I build autonomous systems, multi-agent AI pipelines, production infrastructure, and ship fast.
 
 ---
 
@@ -25,44 +25,22 @@
 <tr>
 <td width="50%" valign="top">
 
+#### 💜 [Orchy](https://orchy.in)
+**Offline-First Dating App (Founding Engineer)**
+
+Built the entire product from scratch as sole engineer. Vibe-based matching, proposal-driven interactions (not swipe), real-time WebSocket chat with 24h timers, venue planning, live selfie verification (AWS Rekognition), split payments (Razorpay). Landing page live at [orchy.in](https://orchy.in).
+
+`Flutter` `Bun/Hono` `PostgreSQL` `PostGIS` `pgvector` `Redis` `GCP`
+
+</td>
+<td width="50%" valign="top">
+
 #### 🕷️ [Arachne](https://github.com/mist-ic/Arachne)
-**Autonomous Web Intelligence Platform**
+**12-Service Autonomous Web Intelligence Platform**
 
-Distributed AI system that crawls protected websites, extracts structured data via LLMs with schema validation, and self-heals when sites change. 12-service pipeline with Temporal workflows, Redpanda streaming, and ClickHouse observability.
+Distributed AI system with self-healing agents, computer vision pipeline (SAM 3 + RF-DETR), 4-tier anti-detection (93% Cloudflare, 94% PerimeterX evasion), multi-model routing (80% cost reduction). Temporal workflows, Redpanda streaming, ClickHouse observability.
 
-`Python` `FastAPI` `Temporal` `Redpanda` `instructor` `LiteLLM` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔍 [ClearPath RAG](https://github.com/mist-ic/RAG-fromScratch)
-**Production RAG — Built Entirely From Scratch**
-
-No LangChain, no vector databases. Pure NumPy retrieval, ONNX-quantized embeddings (32 MB), structure-aware chunking, prompt injection defense (8/8 blocked). 32/32 eval tests passing. Deployed on GCP Cloud Run.
-
-`Python` `FastAPI` `ONNX` `NumPy` `GCP Cloud Run` `React`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📡 [TWAX](https://github.com/mist-ic/TWAX)
-**Autonomous AI Content Engine**
-
-Ships 5-7 posts/day across X, Bluesky, and Mastodon with zero human intervention. Aggregates 100+ articles/day, scores via Gemini, semantic dedup with MiniLM embeddings, engagement-driven self-optimization loop. Built in 5 days.
-
-`FastAPI` `Gemini 3` `sentence-transformers` `PostgreSQL` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🩺 [MystWell](https://github.com/mist-ic/MystWell)
-**AI Health App with Voice Pipeline**
-
-Cross-platform mobile app with Azure-hosted STT pipeline, Gemini transcription, speaker diarization, and NIH RxNorm drug database integration. Handles noisy real-world audio with retry logic and durable state transitions.
-
-`React Native` `FastAPI` `Azure` `Gemini` `Supabase`
+`Python` `Temporal` `Redpanda` `ClickHouse` `SAM 3` `Docker`
 
 </td>
 </tr>
@@ -70,9 +48,9 @@ Cross-platform mobile app with Azure-hosted STT pipeline, Gemini transcription, 
 <td width="50%" valign="top">
 
 #### 🔥 [SevZero](https://github.com/mist-ic/SevZero)
-**RL Benchmark — Autonomous SRE Incident Response**
+**RL Environment for Autonomous SRE Incident Response**
 
-RL environment where the agent is the on-call engineer. Diagnoses cascading cloud failures via alerts, logs, and distributed traces, then issues remediations before the cluster collapses. Procedurally generated topologies, queueing-theory cascade engine, 37 deterministic tests. Built for the OpenEnv AI Hackathon 2026.
+RL benchmark where AI agents diagnose cascading cloud failures. Procedurally generated topologies, 8 failure types, queueing-theory cascade engine, circuit breakers. Benchmarked Llama-3.3-70B: 0.93/0.93/0.79. 37 deterministic tests. OpenEnv AI Hackathon 2026.
 
 `Python` `FastAPI` `OpenEnv` `Pydantic` `Docker`
 
@@ -80,9 +58,9 @@ RL environment where the agent is the on-call engineer. Diagnoses cascading clou
 <td width="50%" valign="top">
 
 #### 🤖 [GeneRush](https://github.com/mist-ic/GeneRush)
-**Deep RL — Quadruped Robot Locomotion**
+**Deep RL Agent, Perfect Locomotion Score**
 
-Trained PPO across 40,960 parallel environments on 4× RTX 5090 GPUs. Perfect score (100.00) on Circle task. Engineered custom reward functions solving train/eval mismatch (+63% sprint improvement).
+Trained PPO across 40,960 parallel environments on 4x RTX 5090 GPUs. Perfect score (100.00) on Circle task. Custom reward shaping solved frozen-robot problem (+63% sprint improvement).
 
 `PyTorch` `PPO` `Genesis Simulator` `Multi-GPU`
 
@@ -91,22 +69,66 @@ Trained PPO across 40,960 parallel environments on 4× RTX 5090 GPUs. Perfect sc
 <tr>
 <td width="50%" valign="top">
 
-#### 🔄 [SyncMist](https://github.com/mist-ic/SyncMist)
-**P2P Encrypted Clipboard Sync**
+#### 🗣️ [VaakSeva](https://github.com/mist-ic/VaakSeva)
+**Self-Hosted Hindi Voice RAG over WhatsApp**
 
-Cross-platform (Windows/Linux/Android) clipboard sync with Rust networking core, QUIC transport, mDNS discovery, AES-256-GCM encryption. Zero server dependency — all transfers P2P.
+End-to-end voice RAG: Hindi voice in, Hindi voice out. Sarvam-30B via SGLang, faster-whisper STT (5.33% WER), Weaviate hybrid retrieval, Veena TTS. 100% self-hosted, zero commercial APIs. 88% retrieval accuracy.
 
-`Rust` `QUIC` `Flutter` `AES-256-GCM` `Moon Monorepo`
+`Sarvam-30B` `SGLang` `faster-whisper` `Weaviate` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📊 [RevSight](https://github.com/mist-ic/RevSight)
-**Multi-Agent Revenue Intelligence Copilot**
+#### 🎯 [RetroFit](https://github.com/mist-ic/RetroFit)
+**6-Agent Ad to Landing Page Personalization**
 
-5-node LangGraph pipeline (Pydantic AI agents) that ingests CRM pipeline data, runs SQL-computed metrics, classifies risks, generates a QBR-ready narrative, and logs every decision to an audit trail. Numeric guardrail rejects and retries hallucinated numbers. Deployed on GCP Cloud Run with live SSE streaming.
+LangGraph pipeline: vision ad analysis + page scraping in parallel, CRO strategy, copywriting, deterministic DOM patching (LLMs output JSON, not HTML), 5-layer QA with auto-retry. Live on GCP Cloud Run.
+
+`LangGraph` `Gemini 3.1 Pro` `Playwright` `Next.js` `GCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📡 [TWAX](https://github.com/mist-ic/TWAX)
+**Autonomous AI Content Engine (Built in 5 Days)**
+
+Ships 5-7 posts/day across X, Bluesky, and Mastodon autonomously. Aggregates 100+ articles/day, AI scoring, semantic dedup (MiniLM embeddings), engagement-driven self-optimization. Zero-cost infrastructure.
+
+`FastAPI` `Gemini 3` `sentence-transformers` `PostgreSQL` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔍 [ClearPath RAG](https://github.com/mist-ic/RAG-fromScratch)
+**Production RAG From First Principles**
+
+No LangChain, no vector databases. ONNX-quantized embeddings (32 MB), NumPy cosine retrieval, prompt injection defense (8/8 blocked). 32/32 eval tests as CI/CD gate. Docker 2GB to 666MB. GCP Cloud Run.
+
+`Python` `FastAPI` `ONNX` `NumPy` `GCP Cloud Run` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 [RevSight](https://github.com/mist-ic/RevSight)
+**Enterprise Revenue Intelligence Copilot**
+
+5-node LangGraph pipeline with Pydantic AI agents: SQL metrics, risk classification, QBR narrative, governance audit trail. Numeric guardrail rejects hallucinated numbers. Live SSE streaming. GCP Cloud Run.
 
 `LangGraph` `Pydantic AI` `FastAPI` `Next.js` `Neon` `GCP Cloud Run`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔄 [SyncMist](https://github.com/mist-ic/SyncMist)
+**P2P Encrypted Clipboard Sync (Rust Core)**
+
+Cross-platform clipboard sync with Rust networking core, QUIC transport, mDNS discovery, AES-256-GCM encryption. Zero server dependency, fully P2P.
+
+`Rust` `QUIC` `Flutter` `AES-256-GCM` `Moon Monorepo`
 
 </td>
 </tr>
@@ -141,13 +163,12 @@ Cross-platform (Windows/Linux/Android) clipboard sync with Rust networking core,
 **AI & ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX_Runtime-792EE5?style=flat-square&logo=onnx&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </td>
