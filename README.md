@@ -1,11 +1,14 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=150&section=header&text=Praveen%20Kumar&fontColor=ffffff&fontSize=44&desc=Software%20Engineer%20%C2%B7%20Co-founder%20and%20CTO%20%C2%B7%20Founding%20Engineer&descSize=17&descAlignY=64"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=140&section=header&text=Praveen%20Kumar&fontColor=ffffff&fontSize=46&fontAlignY=42"/>
+
+<p align="center">
+  <b>Technical Co-founder &nbsp;·&nbsp; 0-to-1 Builder of Production AI Systems</b>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mist-ic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mysticscholarate@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mist-ic"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-India-6366F1?style=flat-square"/>
 </p>
 
 ---
@@ -41,8 +44,8 @@ Software engineer who builds complete products from zero and ships them to real 
 - Designed the compliance data architecture to meet Indian data-protection and securities regulations.
 - Built and led the backend team from scratch: ran 15+ technical interviews and onboarded and mentored 6 engineers shipping production fintech code.
 
-#### MystWell &nbsp;·&nbsp; Co-founder
-`2025` &nbsp;·&nbsp; *Voice-first health assistant. Shelved after market validation.*
+#### [MystWell](https://mystwell.me) &nbsp;·&nbsp; Co-founder
+`2025` &nbsp;·&nbsp; *Voice-first health assistant at [mystwell.me](https://mystwell.me). Shelved after market validation.*
 
 - Co-founded and built a real-time voice pipeline (Azure STT, Gemini, speaker diarization) that records a doctor visit and auto-extracts diagnosis, medications, and follow-ups with no user input.
 - Integrated the NIH RxNorm drug database and built a custom hallucination-detection layer to keep medical output safe.
